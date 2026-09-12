@@ -1,0 +1,33 @@
+{
+  "node": "SUNDONEcindy/setup-swift",
+  "slot": "6",
+  "probe_rounds": 1,
+  "timestamp": "2026-09-12T23:20:25Z",
+  "results": [
+    {"pid":"1045285536976","round":1,"http_code":302,"elapsed_s":0.313279,"redirects":0,"up":true}
+    ,
+    {"pid":"1051443785486","round":1,"http_code":302,"elapsed_s":0.163341,"redirects":0,"up":true}
+    ,
+    {"pid":"1055272192360","round":1,"http_code":302,"elapsed_s":0.162536,"redirects":0,"up":true}
+    ,
+    {"pid":"1056343383874","round":1,"http_code":302,"elapsed_s":0.164043,"redirects":0,"up":true}
+    ,
+    {"pid":"1057028184538","round":1,"http_code":302,"elapsed_s":0.168214,"redirects":0,"up":true}
+    ,
+    {"pid":"1059036808911","round":1,"http_code":302,"elapsed_s":0.162232,"redirects":0,"up":true}
+    ,
+    {"pid":"1059798887756","round":1,"http_code":302,"elapsed_s":0.164595,"redirects":0,"up":true}
+    ,
+    {"pid":"1060214802605","round":1,"http_code":302,"elapsed_s":0.162427,"redirects":0,"up":true}
+    ,
+    {"pid":"1060285671386","round":1,"http_code":302,"elapsed_s":0.163015,"redirects":0,"up":true}
+    ,
+    {"pid":"1061217153671","round":1,"http_code":302,"elapsed_s":0.163426,"redirects":0,"up":true}
+    ,
+    {"pid":"1061810629923","round":1,"http_code":302,"elapsed_s":0.181244,"redirects":0,"up":true}
+    ,
+    {"pid":"1067381684786","round":1,"http_code":302,"elapsed_s":0.163274,"redirects":0,"up":true}
+    ,
+    {"pid":"1071695794375","round":1,"http_code":302,"elapsed_s":0.162618,"redirects":0,"up":true}
+  ]
+}
